@@ -1,6 +1,6 @@
 ## Subject:
 
-You can find the subject of this project [here.](https://github.com/leofilipz/Push-Swap/lvl_2_push_swap.pdf)
+You can find the subject of this project [here.](https://github.com/leofilipz/Push-Swap/blob/main/lvl_2_push_swap.pdf)
 
 ## How to run:
 

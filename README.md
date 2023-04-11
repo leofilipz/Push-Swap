@@ -1,7 +1,7 @@
 ## Subject:
 
 You can find the subject of this project [here.](https://github.com/leofilipz/Push-Swap/blob/main/lvl_2_push_swap.pdf)
-
+## Grade: 86/100
 ## How to run:
 
 First download the repository.
